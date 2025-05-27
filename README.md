@@ -1,5 +1,11 @@
-# testing
+# how to use react
 
-```plaintext
-goodbye world!
+```tsx
+import React from 'react';
+
+const App = () => {
+  return <div>Hello World</div>;
+};
+
+export default App;
 ```
