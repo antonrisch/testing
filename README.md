@@ -1,4 +1,4 @@
-# how to use react
+# how to use react, which is really cool!
 
 ```tsx
 import React from 'react';
